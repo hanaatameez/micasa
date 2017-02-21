@@ -1,0 +1,36 @@
+header { 
+	padding: 0px; 
+	font-family: 'Dosis', sans-serif;
+	font-size: 22px;
+	margin-left: 150px;
+	margin-right: 250px;
+}
+
+.image {
+	width: 800px;
+	margin-left: 100px;
+	margin-right: 250px;
+	padding-right: 180px;
+	padding-left: 180px;
+	padding-bottom: 0px;
+
+}
+.text {
+	font-family: 'Dosis', sans-serif;
+	margin-left: 250px;
+	margin-right: 250px;
+	padding-bottom: 5px;
+
+}
+
+.caption {
+	font-family: 'Dosis', sans-serif;
+	width: 800px;
+	margin-left: 100px;
+	margin-right: 250px;
+	padding-right: 180px;
+	padding-left: 180px;
+}
+.map {
+	padding: auto;
+}
